@@ -19,4 +19,4 @@
 - Vis config by channel UI (add value switch) [shan]
 
 ### Design Request
-- More map styles [erik]
+- More map styles [Daniel]
